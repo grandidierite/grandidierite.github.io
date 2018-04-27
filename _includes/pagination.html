@@ -1,0 +1,56 @@
+{% if paginator.total_pages > 1 %}
+<nav role="navigation">
+  <ul class="s-pagination">
+    {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+    <li class="button"><a href="{{ site.baseurl }}/">Prev</a></li>
+    {% else %}
+    <li class="button"><a href="{{ site.baseurl }}/page/{{ paginator.previous_page }}/">Prev</a></li>
+    {% endif %}
+    {% else %}
+    <li class="button disabled"><a href="{{ site.baseurl }}/page/{{ paginator.previous_page }}/">Prev</a></li>
+    {% endif %}
+
+    {% assign limit = 5 %}
+    {% if paginator.page >= 5 %}
+    <li><a href="{{ site.baseurl }}/">1</a></li>
+    <li><span>...</span></li>
+    {% assign limit = paginator.page | plus: 3 %}
+    {% assign first = paginator.page | minus: 1 %}
+    {% if limit  > paginator.total_pages %}
+    {% assign first = paginator.page | minus: limit | plus: paginator.total_pages %}
+    {% assign limit = paginator.total_pages %}
+    {% endif %}
+    {% else %}
+    {% assign first = 1 %}
+    {% endif %}
+
+    {% for i in (first..limit) %}
+    {% if i == 1 %}
+    {% if paginator.page == 1 %}
+    <li><a class="current" href="{{ site.baseurl }}/">{{ i }}</a></li>
+    {% else %}
+    <li><a href="{{ site.baseurl }}/">{{ i }}</a></li>
+    {% endif %}
+    {% else %}
+    {% if paginator.page == i %}
+    <li><a class="current" href="{{ site.baseurl }}/page/{{ i }}/">{{ i }}</a></li>
+    {% else %}
+    <li><a href="{{ site.baseurl }}/page/{{ i }}/">{{ i }}</a></li>
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+
+    {% if limit  < paginator.total_pages %}
+    <li><span>...</span></li>
+    <li><a href="{{ site.baseurl }}/page/{{ paginator.total_pages }}/">{{ paginator.total_pages }}</a></li>
+    {% endif %}
+
+    {% if paginator.next_page %}
+    <li class="button"><a href="{{ site.baseurl }}/page/{{ paginator.next_page }}/">Next</a></li>
+    {% else %}
+    <li class="button disabled"><a href="{{ site.baseurl }}/page/{{ paginator.next_page }}/">Next</a></li>
+    {% endif %}
+  </ul>
+</nav>
+{% endif %}

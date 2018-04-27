@@ -1,0 +1,31 @@
+title: Welcome to Grandidierite
+description: > # this means to ignore newlines until "baseurl:"
+  Programming, Web Development, Software Development, Game Development and Mathematics Tutorials
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://grandidierite.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: samuely09011520 #if your site has a twitter account, enter it here
+
+# Author Settings
+author: Samuel Yang # add your name
+author-img: author.jpg # add your photo
+about-author: I am a novice programmer who always keeps learning. # add description
+social-twitter: samuely09011520 # add your Twitter handle
+social-facebook: samuel.linyang.10 # add your Facebook handle
+social-github: grandidierite # add your Github handle
+social-email: # add your Email address
+
+# Disqus
+discus-identifier: grandidierite # add your discus identifier
+
+# Tracker
+analytics: UA-118003349-1 # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+
+paginate: 5
+paginate_path: "/page/:num"

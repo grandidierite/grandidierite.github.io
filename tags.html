@@ -1,0 +1,51 @@
+---
+layout: default
+title: Tags
+permalink: /tags/
+jsarr:
+- "/assets/js/tags.js"
+---
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign tag_words = site_tags | split:',' | sort %}
+
+<!--========== PAGE CONTENT ==========-->
+<!-- Tags -->
+<section>
+<div class="container-fluid g-padding-y-50--xs">
+  <div class="g-text-center--xs">
+    <h2>Tags</h2>
+  </div>
+  <div class="row g-margin-b-60--xs g-margin-b-70--md">
+    <div class="col-md-12">
+      <div class="blog-tags">
+        <ul class="nav nav-pills mb-5"  role="tablist" id="tabs">
+          {% for item in (0..site.tags.size) %}{% unless forloop.last %}
+          {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
+          <li class="nav-item">
+            <a class="nav-link" id="{{ this_word | replace: ' ', '-' }}-tab" data-toggle="pill" href="#{{ this_word | replace: ' ', '-' }}" role="tab" aria-controls="{{ this_word }}" aria-selected="false">{{ this_word }} <span>({{ site.tags[this_word].size }})</span></a>
+          </li>
+         <!-- <a href="#{{ this_word | cgi_escape }}">{{ this_word }} <span>({{ site.tags[this_word].size }})</span></a>-->
+          {% endunless %}{% endfor %}
+        </ul>
+
+        <div class="tab-content" id="tab-content">
+        {% for item in (0..site.tags.size) %}{% unless forloop.last %}
+        {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
+          <div class="tab-pane fade" id="{{ this_word | replace: ' ', '-' }}" role="tabpanel" aria-labelledby="{{ this_word | replace: ' ', '-' }}-tab">
+          <!--  lists all posts corresponding to specific tag...-->
+            {% for post in site.tags[this_word] %}{% if post.title != null %}
+            <p>
+              <span><a href="{{ post.url }}">{{ post.title }}</a></span>
+              <small><span>| {{ post.date | date_to_string }}</span></small>
+            </p>
+            {% endif %}{% endfor %}
+          </div>
+        {% endunless %}{% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- // end row  -->
+</div>
+</section>
+<!-- End Tags -->
