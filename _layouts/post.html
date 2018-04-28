@@ -80,12 +80,19 @@ cssarr:
     <!-- // end row  -->
   </div>
 </section>
+
 <section>
-  <div class="container-fluid g-padding-y-50--xs">
-    <div class="g-text-center--xs">
-      <h2>Related Posts</h2>
-    </div>
+  <div class="container-fluid g-padding-y-10--xs">
     <div class="row">
+      <div class="col-12">
+        <div id="SC_TBlock_509174" class="SC_TBlock">loading...</div> 
+      </div>
+    </div>
+    <!-- // end row  -->
+  </div>
+</section>
+
+<section>
 <!-- Related Posts -->
 {% assign maxRelated = 3 %}
 {% assign minCommonTags =  2 %}
@@ -106,7 +113,11 @@ cssarr:
 
 {% if sameTagCount >= minCommonTags %}
 {% if maxRelatedCounter == 0 %}
-
+<div class="container-fluid g-padding-y-25--xs">
+    <div class="g-text-center--xs">
+      <h2>Related Posts</h2>
+    </div>
+    <div class="row">
 {% endif %}
       <div class="col-xl-3 col-md-4 blog-related">
         <!-- Post -->
@@ -123,15 +134,15 @@ cssarr:
       </div>
 {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
 {% if maxRelatedCounter >= maxRelated %}
-
+</div>
+  </div>
 {% break %}
 {% endif %}
 {% endif %}
 
 {% endfor %}
 {% include pagination.html %}
-    </div>
-  </div>
+    
 <!-- End Related Posts -->
 </section>
 <!--========== END PAGE CONTENT ==========-->
