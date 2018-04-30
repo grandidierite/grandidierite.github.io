@@ -29,7 +29,7 @@ cssarr:
             {% endif %}
             <h3>{{page.title}}</h3>
             <ul>
-              <li><a href="#"><span class="fa fa-calendar" aria-hidden="true"></span>{{page.date | date: '%-d %B %Y'}}</a></li>
+              <li><a href="#"><span class="fa fa-calendar" aria-hidden="true"></span>{{ page.date | date: '%B %d, %Y' }}</a></li>
               <li><a href="{{ page.url | prepend: site.baseurl }}#blog-tags"><span class="fa fa-tag" aria-hidden="true"></span>{{ page.tags.size }} Tags</a></li>
               <li><a href="{{ page.url | prepend: site.baseurl }}#blog-comments"><span class="fa fa-comment" aria-hidden="true"></span><span class="disqus-comment-count" data-disqus-url="{{ page.url | prepend: site.baseurl | prepend: site.url }}"></span></a></li>
             </ul>
