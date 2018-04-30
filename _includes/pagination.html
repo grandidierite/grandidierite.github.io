@@ -8,7 +8,7 @@
     <li class="button"><a href="{{ site.baseurl }}/page/{{ paginator.previous_page }}/">Prev</a></li>
     {% endif %}
     {% else %}
-    <li class="button disabled"><a href="{{ site.baseurl }}/page/{{ paginator.previous_page }}/">Prev</a></li>
+    <li class="button"><a href="{{ site.baseurl }}/page/{{ paginator.previous_page }}/" class="disabled">Prev</a></li>
     {% endif %}
 
     {% assign limit = 5 %}
@@ -49,7 +49,7 @@
     {% if paginator.next_page %}
     <li class="button"><a href="{{ site.baseurl }}/page/{{ paginator.next_page }}/">Next</a></li>
     {% else %}
-    <li class="button disabled"><a href="{{ site.baseurl }}/page/{{ paginator.next_page }}/">Next</a></li>
+    <li class="button"><a href="{{ site.baseurl }}/page/{{ paginator.next_page }}/" class="disabled">Next</a></li>
     {% endif %}
   </ul>
 </nav>
