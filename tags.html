@@ -34,10 +34,10 @@ jsarr:
           <div class="tab-pane fade" id="{{ this_word | replace: ' ', '-' }}" role="tabpanel" aria-labelledby="{{ this_word | replace: ' ', '-' }}-tab">
           <!--  lists all posts corresponding to specific tag...-->
             {% for post in site.tags[this_word] %}{% if post.title != null %}
-            <p>
+            <h5>
               <span><a href="{{ post.url }}">{{ post.title }}</a></span>
               <small><span>| {{ post.date | date_to_string }}</span></small>
-            </p>
+            </h5>
             {% endif %}{% endfor %}
           </div>
         {% endunless %}{% endfor %}
