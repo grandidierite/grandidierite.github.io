@@ -18,7 +18,7 @@ layout: default
               <ul>
                 <li><a href="#"><span class="fa fa-calendar" aria-hidden="true"></span>{{post.date | date: '%Y, %b %d'}}</a></li>
                 <li><a href="{{post.url | prepend: site.baseurl}}#blog-tags"><span class="fa fa-tags" aria-hidden="true"></span>{{ post.tags.size }} Tags</a></li>
-                <li><a href="{{post.url | prepend: site.baseurl}}#blog-comments"><span class="fa fa-comment" aria-hidden="true"></span><span class="disqus-comment-count" data-disqus-url="{{ post.url | prepend: site.baseurl | prepend: site.url }}"></span></a></li>
+                <li><a href="{{post.url | prepend: site.baseurl}}#blog-comments"><span class="fa fa-comment" aria-hidden="true"></span><span class="disqus-comment-count" data-disqus-url="{{ post.url | prepend: site.baseurl | prepend: site.url }}">0 Comment</span></a></li>
               </ul>
             </div>
           </div>
