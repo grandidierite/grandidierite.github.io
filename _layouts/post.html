@@ -17,22 +17,16 @@ cssarr:
 - "/assets/rainbow/themes/css/monokai.css"
 ---
 <!--========== PAGE CONTENT ==========-->
-<section>
-  <div class="container-fluid g-padding-y-25--xs">
+<section class="g-padding-y-80--xs">
+  <div class="container-fluid">
     <div class="row">
       <div class="col-md-8 mb-4 mb-md-0">
         <div class="blog-entry">
           <div class="entry-title">
             {% if page.img %}
             <img src="{{ "/assets/img/" | prepend: site.baseurl | append : page.img}}" alt="{{page.title}}" class="img-fluid" />
-            {% else %}
             {% endif %}
             <h3>{{page.title}}</h3>
-            <ul>
-              <li><a href="#"><span class="fa fa-calendar" aria-hidden="true"></span>{{ page.date | date: '%B %d, %Y' }}</a></li>
-              <li><a href="{{ page.url | prepend: site.baseurl }}#blog-tags"><span class="fa fa-tag" aria-hidden="true"></span>{{ page.tags.size }} Tags</a></li>
-              <li><a href="{{ page.url | prepend: site.baseurl }}#blog-comments"><span class="fa fa-comment" aria-hidden="true"></span><span class="disqus-comment-count" data-disqus-url="{{ page.url | prepend: site.baseurl | prepend: site.url }}">0 Comment</span></a></li>
-            </ul>
           </div>
           <div class="entry-content">
             {{page.content | markdownify}}
@@ -69,6 +63,9 @@ cssarr:
               <img src="{{"/assets/img/" | prepend: site.baseurl | append : site.author-img}}" alt="{{ site.author }} image" />
               <h6>{{ site.author }}</h6>
               <p>{{ site.about-author }}</p>
+              <p>If you like this article, please donate</p>
+              <a href="https://paypal.me/Samuel431" class="btn btn-outline-info" rel="nofollow" target="_blank">Donate Now <i class="fas fa-heart"></i></a>
+
             </div>
           </div>
         </div>
@@ -81,8 +78,8 @@ cssarr:
   </div>
 </section>
 
-<section>
-  <div class="container-fluid g-padding-y-10--xs">
+<section class="g-padding-y-10--xs">
+  <div class="container-fluid">
     <div class="row">
       <div class="col-12">
         <div id="SC_TBlock_509174" class="SC_TBlock">loading...</div> 
@@ -92,11 +89,11 @@ cssarr:
   </div>
 </section>
 
-<section>
 <!-- Related Posts -->
 {% assign maxRelated = 3 %}
 {% assign minCommonTags =  2 %}
 {% assign maxRelatedCounter = 0 %}
+{% assign bool = false %}
 
 {% for post in site.posts %}
 
@@ -112,14 +109,16 @@ cssarr:
 {% endfor %}
 
 {% if sameTagCount >= minCommonTags %}
-{% if maxRelatedCounter == 0 %}
-<div class="container-fluid g-padding-y-25--xs">
+{% if bool == false %}
+{% assign bool = true %}
+<section class="g-padding-y-25--xs">
+<div class="container-fluid">
     <div class="g-text-center--xs">
       <h2>Related Posts</h2>
     </div>
     <div class="row">
 {% endif %}
-      <div class="col-xl-3 col-md-4 blog-related">
+      <div class="col-md-3 blog-related">
         <!-- Post -->
           <div class="post-thumb">
             {% if post.img %}
@@ -134,14 +133,16 @@ cssarr:
       </div>
 {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
 {% if maxRelatedCounter >= maxRelated %}
-</div>
-  </div>
 {% break %}
 {% endif %}
 {% endif %}
 
 {% endfor %}
-    
+{% if bool == true %}
+    </div>
+</div>
+</section>
+{% endif %}
 <!-- End Related Posts -->
 </section>
 <!--========== END PAGE CONTENT ==========-->

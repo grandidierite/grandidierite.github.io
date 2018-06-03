@@ -10,13 +10,10 @@ jsarr:
 
 <!--========== PAGE CONTENT ==========-->
 <!-- Tags -->
-<section>
-<div class="container-fluid g-padding-y-50--xs">
-  <div class="g-text-center--xs">
-    <h2>Site Tags</h2>
-  </div>
-  <div class="row g-margin-b-60--xs g-margin-b-70--md">
-    <div class="col-md-12">
+<section class="g-padding-y-50--xs">
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-12">
       <div class="blog-tags">
         <ul class="nav nav-pills mb-5"  role="tablist" id="tabs">
           {% for item in (0..site.tags.size) %}{% unless forloop.last %}
