@@ -746,30 +746,8 @@ a:focus {
   background: #dd4b39;
 }
 
-.entry-title h3 {
-  letter-spacing:1px;
-  color: #212121;
-  line-height: 1.5em;
-  text-align: center;
+.entry-title {
   margin-bottom: 50px;
-}
-
-.entry-title ul {
-  text-align: center;
-  padding: 0;
-  margin: 0;
-}
-.entry-title ul li{
-  display:inline-block;
-  margin-right:3em;
-}
-.entry-title ul li span{
-  color: #aaa;
-  padding-right: .5em;
-}
-.entry-title ul li a{
-  color: #aaa;
-  text-decoration: none;
 }
 
 .entry-content p {

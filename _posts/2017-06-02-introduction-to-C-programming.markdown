@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction to C Programming
-date: 2018-06-02 13:32:20 +0300
+date: 2018-06-02 13:32:20 +0700
 description: Basic Parts of C Programs and How to Compile and Execute C Program
 img: introduction.jpg
 tags: [C]
