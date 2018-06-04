@@ -4,6 +4,7 @@ description: >
 permalink: ':title/'
 url: "https://grandidierite.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: samuely09011520 #if your site has a twitter account, enter it here
+cover: cover.jpg
 
 # Author Settings
 author: Samuel Yang # add your name
