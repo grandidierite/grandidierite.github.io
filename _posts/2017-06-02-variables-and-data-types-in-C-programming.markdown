@@ -103,24 +103,6 @@ Basic Data Types in C
 <td>0 to 255</td>
 <td>%c</td>
 </tr>
-<tr>
-<td>float</td>
-<td>4</td>
-<td>&nbsp;</td>
-<td>%f</td>
-</tr>
-<tr>
-<td>double</td>
-<td>8</td>
-<td>&nbsp;</td>
-<td>%lf</td>
-</tr>
-<tr>
-<td>long double</td>
-<td>12</td>
-<td>&nbsp;</td>
-<td>%Lf</td>
-</tr>
 </table>
 </div>
 
