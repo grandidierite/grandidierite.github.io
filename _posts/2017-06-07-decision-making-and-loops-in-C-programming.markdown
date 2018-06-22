@@ -281,7 +281,7 @@ int main() {
 The syntax of <code>switch...case</code>
 
 <pre>
-<code data-language="c">switch( <variable> ) {
+<code data-language="c">switch( &lt;variable&gt; ) {
 case value1:
   //Block 1 Code Here
   break;
