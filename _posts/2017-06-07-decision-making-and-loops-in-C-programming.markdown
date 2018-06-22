@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Decision Making and Loops in C Progamming
-date: 2018-06-03 13:32:20 +0700
+date: 2018-06-07 13:32:20 +0700
 description: Decision Making and Loops in C Progamming
 img: flowcontrol.jpg
 tags: [C]
