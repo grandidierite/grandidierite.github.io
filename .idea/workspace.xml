@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eff0f1aa-8645-48ba-ae24-362d7092e720" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-06-07-decision-making-and-loops-in-C-programming.markdown" afterPath="$PROJECT_DIR$/_posts/2017-06-07-decision-making-and-loops-in-C-programming.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-06-07-decision-making-and-loops-in-C-programming.markdown" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-06-07-decision-making-and-loops-in-C-programming.markdown">
+      <file leaf-file-name="2017-06-07-macros-and-preprocessor-directives-in-C-programming.markdown" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-06-07-macros-and-preprocessor-directives-in-C-programming.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="291" column="0" lean-forward="true" selection-start-line="291" selection-start-column="0" selection-end-line="291" selection-end-column="0" />
+            <state relative-caret-position="17">
+              <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -65,6 +65,8 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2017-06-03-decision-making-and-loops-in-C-programming.markdown" />
         <option value="$PROJECT_DIR$/_posts/2017-06-07-decision-making-and-loops-in-C-programming.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2017-06-07-compilation-process-in-C-programing.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2017-06-07-macros-and-preprocessor-directives-in-C-programming.markdown" />
       </list>
     </option>
   </component>
@@ -130,6 +132,19 @@
               <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="grandidierite.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grandidierite.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="rainbow" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="grandidierite.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grandidierite.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="rainbow" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -172,7 +187,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54757000" />
+    <option name="totallyTimeSpent" value="95787000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -218,15 +233,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2017-06-02-C-programming-introduction.markdown" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-06-02-data-types-in-C-programming.markdown" />
-    <entry file="file://$PROJECT_DIR$/assets/bootstrap/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="217" column="28" lean-forward="true" selection-start-line="217" selection-start-column="28" selection-end-line="217" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="549">
@@ -523,14 +529,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-06-02-introduction-to-C-programming.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="42" lean-forward="false" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-06-02-variables-and-data-types-in-C-programming.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -541,8 +539,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-06-07-decision-making-and-loops-in-C-programming.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="291" column="0" lean-forward="true" selection-start-line="291" selection-start-column="0" selection-end-line="291" selection-end-column="0" />
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-06-07-decision-making-and-loops-in-C-programming - 複製.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="33" column="6" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="33" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-06-02-introduction-to-C-programming.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-06-07-compilation-process-in-C-programing.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-06-07-macros-and-preprocessor-directives-in-C-programming.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
           <folding />
         </state>
       </provider>
