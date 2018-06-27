@@ -563,10 +563,10 @@ The lines begin with &#35;
 # 368 "/usr/include/features.h" 2 3 4</code>
 </pre>
 
-are called <em>linemarkers</em>. Linemakers are used to convey source file name and line number information in the form
+are called <em>linemarkers</em>. Linemarkers are used to convey source file name and line number information in the form
 
 <pre>
-<code data-language="c">int google;</code>
+<code data-language="c">linenum filename flags</code>
 </pre>
 
 They mean that the following line originated in file <i>filename</i> at line <i>linenum</i>. After the file name comes zero or more flags, which are '1', '2', '3', or '4'. If there are multiple flags, spaces separate them. Here is what the flags mean:

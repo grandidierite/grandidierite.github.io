@@ -39,8 +39,7 @@ int main() {
 
 Open a text editor, copy and paste the above code. Save the file as hello.c. Open a command prompt and go to the directory where you've saved the file.
 
-If you're using gcc compiler, you type <code>gcc hello.c</code> and press enter to compile your code. If there are no errors in your code, it would generate a.out executable file. Now, type a.out to execute your program and you will see the output
-"Hello, World!".
+If you're using gcc compiler, you type <code>gcc hello.c</code> and press enter to compile your code. If there are no errors in your code, it would generate a.out executable file. Now, type a.out to execute your program and you will see the output "Hello, World!".
 
 ![Compile C program using gcc compiler](/assets/img/gcc.jpg){:class="img-responsive"}
 
