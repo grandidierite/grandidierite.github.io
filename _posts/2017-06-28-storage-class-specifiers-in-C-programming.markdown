@@ -18,7 +18,7 @@ There are 4 storage class specifiers in C language
 Variables which are defined within a function or a block (block is a section of code which is grouped together) by default belong to the auto storage class. These variables are also called local variables because they are local to the function and by default assigned some garbage value. Since these variables are declared inside a function, therefore these can only be accessed inside that function. There is no need to put 'auto' while declaring these variables because these are by default auto. auto storage class variables are deleted when the block in which the variables were declared exits.
 
 <pre>
-<code data-language="c">#include <stdio.h>
+<code data-language="c">#include &lt;stdio.h&gt;
 
 int sum(int n1, int n2){
   int s;        // by default auto
@@ -31,7 +31,7 @@ int main(){
   printf("sum is : %d\n", k);
   return 0;
 }</code>
-</pre><br>
+</pre>
 
 The auto storage class variables characteristics
 * Storage place : CPU memory
@@ -54,14 +54,12 @@ void incrementCount() {
 }</code>
 </pre>
 
-<br>
-
 <pre>
 <code data-language="c">/*
  * File : extern_var.c
  */
 
-#include <stdio.h>
+#include &lt;stdio.h&gt;
 #include "extern_var.h"    /* including extern_var.h */
 
 extern int count;   /* declaration of variable 'count' */
@@ -74,7 +72,6 @@ int main() {
     return 0;
 }</code>
 </pre>
-<br>
 
 The extern storage class variables characteristics
 * Storage place : CPU memory
@@ -86,7 +83,7 @@ The extern storage class variables characteristics
 This storage specifier is used to declare static variables. Static variables have a property of preserving their value even after they are out their scope. A static variable remains in memory while the program is running. A normal or auto variable is destroyed when the function call where the variable was declared is over.
 
 <pre>
-<code data-language="c">#include<stdio.h>
+<code data-language="c">#include&lt;stdio.h&gt;
 int counting()
 {
   static int count = 0;
@@ -103,12 +100,12 @@ int main()
 }</code>
 </pre>
 
-Output: <output>1 2</output>
+Output: <samp>1 2</samp>
 
 What if we use a normal or auto variable instead?
 
 <pre>
-<code data-language="c">#include<stdio.h>
+<code data-language="c">#include&lt;stdio.h&gt;
 int counting()
 {
   int count = 0;
@@ -125,14 +122,14 @@ int main()
 }</code>
 </pre>
 
-Output: <output>1 1</output>
+Output: <samp>1 1</samp>
 
 Static variables are allocated memory in data segment, not stack segment.
 
 Static variables are initialized as 0 if not initialized explicitly.
 
 <pre>
-<code data-language="c">#include <stdio.h>
+<code data-language="c">#include &lt;stdio.h&gt;
 int main()
 {
     static int x;
@@ -141,12 +138,12 @@ int main()
 }</code>
 </pre>
 
-Ouput: <output>0<br>{garbage_value]</output>
+Ouput: <br><samp>0<br>{garbage_value}</samp>
 
 Static variables can only be initialized using constant literals. For example, the following program fails in compilation.
 
 <pre>
-<code data-language="c">#include<stdio.h>
+<code data-language="c">#include&lt;stdio.h&gt;
 int initializer(void)
 {
     return 50;
@@ -167,7 +164,6 @@ example.c: In function ?main?:
 example.c:9:20: error: initializer element is not constant
      static int i = initializer();
 </pre>
-<br>
 
 The static storage class variables characteristics
 * Storage place : CPU memory
