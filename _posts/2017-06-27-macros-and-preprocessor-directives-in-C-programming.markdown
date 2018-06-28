@@ -422,7 +422,7 @@ There are some predefined macros in C programming.
 </tr>
 <tr>
 <td><code>__LINE__</code></td>
-<td><code>Integer representing the current line number</code></td>
+<td>Integer representing the current line number</td>
 </tr>
 <tr>
 <td><code>__TIME__</code></td>
