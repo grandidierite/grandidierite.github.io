@@ -100,7 +100,9 @@ int main()
 }</code>
 </pre>
 
-Output: <samp>1 2</samp>
+Output:
+
+<pre>1 2</pre>
 
 What if we use a normal or auto variable instead?
 
@@ -122,7 +124,9 @@ int main()
 }</code>
 </pre>
 
-Output: <samp>1 1</samp>
+Output:
+
+<pre>1 1</pre>
 
 Static variables are allocated memory in data segment, not stack segment.
 
@@ -138,7 +142,9 @@ int main()
 }</code>
 </pre>
 
-Ouput: <br><samp>0<br>{garbage_value}</samp>
+Ouput:
+
+<pre>0<br>{garbage_value}</pre>
 
 Static variables can only be initialized using constant literals. For example, the following program fails in compilation.
 
