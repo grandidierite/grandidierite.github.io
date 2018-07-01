@@ -97,7 +97,7 @@ It will expand to the following, which is certainly not what the programmer inte
  }</code>
 </pre>
 
-Next, in this noncompliant code example, the macro contains multiple statements bounded with a curly parenthesis
+Next, in this noncompliant code example, the macro contains multiple statements bounded with curly brackets
 
 <pre>
  <code data-language="c">#include &lt;stdio.h&gt;
