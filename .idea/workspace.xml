@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eff0f1aa-8645-48ba-ae24-362d7092e720" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-06-27-macros-and-preprocessor-directives-in-C-programming.markdown" afterPath="$PROJECT_DIR$/_posts/2017-06-27-macros-and-preprocessor-directives-in-C-programming.markdown" />
-    </list>
+    <list default="true" id="eff0f1aa-8645-48ba-ae24-362d7092e720" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,31 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-06-27-macros-and-preprocessor-directives-in-C-programming.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-06-27-macros-and-preprocessor-directives-in-C-programming.markdown">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="97" column="6" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="97" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-07-01-constants-and-arrays-in-C-programming.markdown" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-07-01-constants-and-arrays-in-C-programming.markdown">
+      <file leaf-file-name="2017-07-02-pointers-in-C-programming.markdown" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-07-02-pointers-in-C-programming.markdown">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-06-28-storage-class-specifiers-in-C-programming.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-06-28-storage-class-specifiers-in-C-programming.markdown">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4">
-              <caret line="173" column="10" lean-forward="false" selection-start-line="173" selection-start-column="10" selection-end-line="173" selection-end-column="10" />
+              <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -67,6 +45,7 @@
       <find>#line</find>
       <find>&lt;st</find>
       <find>curly</find>
+      <find>1.</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -97,6 +76,8 @@
         <option value="$PROJECT_DIR$/_posts/2017-06-27-macros-and-preprocessor-directives-in-C-programming.markdown" />
         <option value="$PROJECT_DIR$/_posts/2017-06-30-constants-and-arrays-in-C-programming.markdown" />
         <option value="$PROJECT_DIR$/_posts/2017-07-01-constants-and-arrays-in-C-programming.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2017-07-01-pointers-in-C-programming.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2017-07-02-pointers-in-C-programming.markdown" />
       </list>
     </option>
   </component>
@@ -213,12 +194,12 @@
       <workItem from="1526537120197" duration="1716000" />
       <workItem from="1527590499133" duration="2575000" />
       <workItem from="1527930195557" duration="37921000" />
-      <workItem from="1530235431829" duration="36137000" />
+      <workItem from="1530235431829" duration="60171000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="180963000" />
+    <option name="totallyTimeSpent" value="204997000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -254,14 +235,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="154" column="0" lean-forward="true" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-06-02-variables-and-data-types-in-C-programming.markdown" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-06-02-decision-making-and-loops-in-C-programming.markdown" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -541,8 +514,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-07-01-constants-and-arrays-in-C-programming.markdown">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="127" column="0" lean-forward="true" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-01-pointers-in-C-programming.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="207" column="0" lean-forward="false" selection-start-line="207" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-02-pointers-in-C-programming.markdown">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
           <folding />
         </state>
       </provider>
