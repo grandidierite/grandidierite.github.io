@@ -23,7 +23,7 @@ int main() {
    return 0;
 }</code>
 </pre>
-
+;
 Like a variable, before using a pointer, you have to declare it. First, you specify the data type of the variable that the pointer point to. Second, you put an asterisk in front of the pointer name. Next you give the name for the pointer.
 
 <pre>

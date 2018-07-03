@@ -33,8 +33,6 @@ int main() {
 }</code>
 </pre>
 
-![C If Statement](/assets/img/ifstatement.jpg){:class="img-responsive"}
-
 When you enters -3, the test expression becomes true. Hence, the text "You entered -3." is displayed on the screen. When you enters 12, the test expression becomes false and the statement inside the body of <code>if</code> is skipped.
 
 ###### if...else Statement

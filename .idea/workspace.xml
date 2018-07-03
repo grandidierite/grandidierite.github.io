@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eff0f1aa-8645-48ba-ae24-362d7092e720" name="Default" comment="" />
+    <list default="true" id="eff0f1aa-8645-48ba-ae24-362d7092e720" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-06-07-decision-making-and-loops-in-C-programming.markdown" afterPath="$PROJECT_DIR$/_posts/2017-06-07-decision-making-and-loops-in-C-programming.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-07-02-pointers-in-C-programming.markdown" afterPath="$PROJECT_DIR$/_posts/2017-07-02-pointers-in-C-programming.markdown" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +15,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-07-02-pointers-in-C-programming.markdown" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-07-02-pointers-in-C-programming.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-07-02-pointers-in-C-programming.markdown">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+              <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-07-03-enum-structure-and-union-in-C-programming.markdown" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-07-03-enum-structure-and-union-in-C-programming.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="141" column="34" lean-forward="false" selection-start-line="141" selection-start-column="34" selection-end-line="141" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="461">
+              <caret line="136" column="0" lean-forward="false" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -62,11 +96,9 @@
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_posts/2017-06-02-variables-and-data-types-in-C-programming.markdown" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2017-06-03-decision-making-and-loops-in-C-programming.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2017-06-07-decision-making-and-loops-in-C-programming.markdown" />
         <option value="$PROJECT_DIR$/_posts/2017-06-07-compilation-process-in-C-programing.markdown" />
         <option value="$PROJECT_DIR$/_posts/2017-06-02-introduction-to-C-programming.markdown" />
         <option value="$PROJECT_DIR$/_posts/2017-06-07-macros-and-preprocessor-directives-in-C-programming.markdown" />
@@ -78,6 +110,9 @@
         <option value="$PROJECT_DIR$/_posts/2017-07-01-constants-and-arrays-in-C-programming.markdown" />
         <option value="$PROJECT_DIR$/_posts/2017-07-01-pointers-in-C-programming.markdown" />
         <option value="$PROJECT_DIR$/_posts/2017-07-02-pointers-in-C-programming.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2017-06-07-decision-making-and-loops-in-C-programming.markdown" />
+        <option value="$PROJECT_DIR$/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/_posts/2017-07-02-enum-structure-and-union-in-C-programming.markdown" />
       </list>
     </option>
   </component>
@@ -165,7 +200,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/jdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mathblog.github.io" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunDashboard">
@@ -194,12 +229,12 @@
       <workItem from="1526537120197" duration="1716000" />
       <workItem from="1527590499133" duration="2575000" />
       <workItem from="1527930195557" duration="37921000" />
-      <workItem from="1530235431829" duration="60171000" />
+      <workItem from="1530235431829" duration="83695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="204997000" />
+    <option name="totallyTimeSpent" value="228521000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -235,14 +270,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2017-06-02-decision-making-and-loops-in-C-programming.markdown" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="35" lean-forward="false" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/bootstrap/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="952">
@@ -262,6 +289,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2533">
           <caret line="149" column="93" lean-forward="false" selection-start-line="149" selection-start-column="85" selection-end-line="149" selection-end-column="93" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -311,6 +339,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2006">
           <caret line="118" column="12" lean-forward="false" selection-start-line="99" selection-start-column="2" selection-end-line="118" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -347,6 +376,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2006">
           <caret line="118" column="12" lean-forward="false" selection-start-line="99" selection-start-column="2" selection-end-line="118" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -416,20 +446,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2702">
-          <caret line="163" column="0" lean-forward="false" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="42" lean-forward="false" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="549">
@@ -448,13 +464,6 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-06-02-variables-and-data-types-in-C-programming.markdown" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-06-07-decision-making-and-loops-in-C-programming - 複製.markdown" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-06-07-macros-and-preprocessor-directives-in-C-programming.markdown" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-06-07-decision-making-and-loops-in-C-programming.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-06-07-compilation-process-in-C-programing.markdown" />
     <entry file="file://$PROJECT_DIR$/_includes/pagination.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -528,10 +537,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-06-07-decision-making-and-loops-in-C-programming.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="33" column="6" lean-forward="false" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="141" column="34" lean-forward="false" selection-start-line="141" selection-start-column="34" selection-end-line="141" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="136" column="0" lean-forward="false" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-02-enum-structure-and-union-in-C-programming.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="24" lean-forward="false" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-07-02-pointers-in-C-programming.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-03-enum-structure-and-union-in-C-programming.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
