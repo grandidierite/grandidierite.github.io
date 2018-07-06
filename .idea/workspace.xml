@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eff0f1aa-8645-48ba-ae24-362d7092e720" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-06-07-decision-making-and-loops-in-C-programming.markdown" afterPath="$PROJECT_DIR$/_posts/2017-06-07-decision-making-and-loops-in-C-programming.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-07-02-pointers-in-C-programming.markdown" afterPath="$PROJECT_DIR$/_posts/2017-07-02-pointers-in-C-programming.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-07-03-enum-structure-and-union-in-C-programming.markdown" afterPath="$PROJECT_DIR$/_posts/2017-07-03-enum-structure-and-union-in-C-programming.markdown" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,18 +16,28 @@
       <file leaf-file-name="2017-07-02-pointers-in-C-programming.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-07-02-pointers-in-C-programming.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            <state relative-caret-position="102">
+              <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-07-03-enum-structure-and-union-in-C-programming.markdown" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-07-03-enum-structure-and-union-in-C-programming.markdown">
+      <file leaf-file-name="2017-07-04-structure-alignment-and-packing-in-C-programming.markdown" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-07-04-structure-alignment-and-packing-in-C-programming.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="51">
+              <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-06-02-introduction-to-C-programming.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-06-02-introduction-to-C-programming.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="474">
+              <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="89" />
               <folding />
             </state>
           </provider>
@@ -71,7 +79,6 @@
       <find>social-share-btns-container</find>
       <find>social-share-btns</find>
       <find>facebook</find>
-      <find>table</find>
       <find>entry-title</find>
       <find>rain</find>
       <find>&lt;vari</find>
@@ -80,6 +87,12 @@
       <find>&lt;st</find>
       <find>curly</find>
       <find>1.</find>
+      <find>float</find>
+      <find>sizeof</find>
+      <find>table</find>
+      <find>declaration</find>
+      <find>of</find>
+      <find>jpg</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -113,6 +126,9 @@
         <option value="$PROJECT_DIR$/_posts/2017-06-07-decision-making-and-loops-in-C-programming.markdown" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_posts/2017-07-02-enum-structure-and-union-in-C-programming.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2017-07-03-enum-structure-and-union-in-C-programming.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2017-07-04-structure-alignment-and-padding-in-C-programming.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2017-07-04-structure-alignment-and-packing-in-C-programming.markdown" />
       </list>
     </option>
   </component>
@@ -229,12 +245,12 @@
       <workItem from="1526537120197" duration="1716000" />
       <workItem from="1527590499133" duration="2575000" />
       <workItem from="1527930195557" duration="37921000" />
-      <workItem from="1530235431829" duration="83695000" />
+      <workItem from="1530235431829" duration="152607000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="228521000" />
+    <option name="totallyTimeSpent" value="297433000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -270,20 +286,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/bootstrap/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="56" column="14" lean-forward="false" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="69" lean-forward="false" selection-start-line="35" selection-start-column="69" selection-end-line="35" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-04-06-hello-world.markdown" />
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -473,14 +475,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-06-02-introduction-to-C-programming.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-06-04-variables-and-data-types-in-C-programming.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -569,18 +563,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-07-02-pointers-in-C-programming.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-06-02-introduction-to-C-programming.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        <state relative-caret-position="474">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="89" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-07-03-enum-structure-and-union-in-C-programming.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="183">
+          <caret line="998" column="186" lean-forward="false" selection-start-line="998" selection-start-column="175" selection-end-line="998" selection-end-column="186" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-04-structure-alignment-and-padding-in-C-programming.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="776" column="100" lean-forward="false" selection-start-line="776" selection-start-column="100" selection-end-line="776" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-02-pointers-in-C-programming.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-04-structure-alignment-and-packing-in-C-programming.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
           <folding />
         </state>
       </provider>

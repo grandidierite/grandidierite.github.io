@@ -89,7 +89,7 @@ int main() {
 ##### Structure
 Structure is user-defined data type in C language which allows us to combine data of different types together.
 
-Let's define a simple structure called student
+Let's define a simple structure called student.
 
 <pre>
 <code data-language="c">struct student
@@ -128,7 +128,7 @@ struct student student1, student2;      //declaring variables of struct student<
 }; student1, student2;</code>
 </pre>
 
-Like a variable of any other data type, structure variable can be initialized as follows
+Like a variable of any other data type, structure variable can be initialized as follows.
 
 <pre>
 <code data-language="c">struct student
