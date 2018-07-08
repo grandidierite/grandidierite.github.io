@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eff0f1aa-8645-48ba-ae24-362d7092e720" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2018-07-07-functions-in-C-programming.markdown" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-06-02-introduction-to-C-programming.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-06-04-variables-and-data-types-in-C-programming.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-06-07-decision-making-and-loops-in-C-programming.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-06-24-compilation-process-in-C-programing.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-06-27-macros-and-preprocessor-directives-in-C-programming.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-06-28-storage-class-specifiers-in-C-programming.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-06-30-operators-in-C-programming.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-07-01-constants-and-arrays-in-C-programming.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-07-02-pointers-in-C-programming.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-07-03-enum-structure-and-union-in-C-programming.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-07-04-structure-alignment-and-packing-in-C-programming.markdown" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-06-27-macros-and-preprocessor-directives-in-C-programming.markdown" afterPath="$PROJECT_DIR$/_posts/2018-06-27-macros-and-preprocessor-directives-in-C-programming.markdown" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,21 +13,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2018-07-07-functions-in-C-programming.markdown" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-07-07-functions-in-C-programming.markdown">
+      <file leaf-file-name="2018-07-08-dynamic-memory-allocation-C-programming.markdown" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-07-08-dynamic-memory-allocation-C-programming.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="288" column="0" lean-forward="true" selection-start-line="288" selection-start-column="0" selection-end-line="288" selection-end-column="0" />
+            <state relative-caret-position="54">
+              <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-07-07-standard-library-functions-in-C-programming.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-07-07-standard-library-functions-in-C-programming.markdown">
+      <file leaf-file-name="2018-06-27-macros-and-preprocessor-directives-in-C-programming.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-06-27-macros-and-preprocessor-directives-in-C-programming.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="1726" column="6" lean-forward="false" selection-start-line="1726" selection-start-column="6" selection-end-line="1726" selection-end-column="6" />
+            <state relative-caret-position="-62">
+              <caret line="441" column="26" lean-forward="false" selection-start-line="441" selection-start-column="26" selection-end-line="441" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -71,7 +59,6 @@
       <find>1.</find>
       <find>float</find>
       <find>sizeof</find>
-      <find>table</find>
       <find>declaration</find>
       <find>of</find>
       <find>jpg</find>
@@ -79,6 +66,7 @@
       <find>&lt;code&gt;int r</find>
       <find>&lt;code&gt;int w</find>
       <find>&lt;code&gt;Date</find>
+      <find>table</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -117,6 +105,8 @@
         <option value="$PROJECT_DIR$/_posts/2017-07-04-structure-alignment-and-packing-in-C-programming.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-07-07-standard-library-functions-in-C-programming.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-07-07-functions-in-C-programming.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-06-27-macros-and-preprocessor-directives-in-C-programming.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-07-08-dynamic-memory-allocation-C-programming.markdown" />
       </list>
     </option>
   </component>
@@ -235,12 +225,12 @@
       <workItem from="1527930195557" duration="37921000" />
       <workItem from="1530235431829" duration="156943000" />
       <workItem from="1530952083272" duration="1181000" />
-      <workItem from="1530955247028" duration="16986000" />
+      <workItem from="1530955247028" duration="27436000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="319936000" />
+    <option name="totallyTimeSpent" value="330386000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -276,20 +266,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/bootstrap/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="56" column="14" lean-forward="false" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="69" lean-forward="false" selection-start-line="35" selection-start-column="69" selection-end-line="35" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2006">
@@ -487,16 +463,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-07-07-standard-library-functions-in-C-programming.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="1726" column="6" lean-forward="false" selection-start-line="1726" selection-start-column="6" selection-end-line="1726" selection-end-column="6" />
+        <state relative-caret-position="221">
+          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-07-07-functions-in-C-programming.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="288" column="0" lean-forward="true" selection-start-line="288" selection-start-column="0" selection-end-line="288" selection-end-column="0" />
+        <state relative-caret-position="408">
+          <caret line="278" column="6" lean-forward="false" selection-start-line="257" selection-start-column="0" selection-end-line="278" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-27-macros-and-preprocessor-directives-in-C-programming.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-62">
+          <caret line="441" column="26" lean-forward="false" selection-start-line="441" selection-start-column="26" selection-end-line="441" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-07-08-dynamic-memory-allocation-C-programming.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
           <folding />
         </state>
       </provider>

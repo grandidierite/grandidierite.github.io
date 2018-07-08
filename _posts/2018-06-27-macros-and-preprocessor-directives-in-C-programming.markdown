@@ -323,7 +323,7 @@ The &#35; operator rules in a function-like macro
 #define ONE           1</code>
 </pre>
 
-<table>
+<table class="table">
 <tr>
 <th>Invocation</th>
 <th>Result of Macro Expansion</th>
@@ -376,7 +376,7 @@ The &#35;&#35; (double number sign) operator rules
 #define Jitterbug             3</code>
 </pre>
 
-<table>
+<table class="table">
 <tr>
 <th>Invocation</th>
 <th>Result of Macro Expansion</th>
@@ -407,7 +407,7 @@ The &#35;&#35; (double number sign) operator rules
 ##### Predefined Macros
 There are some predefined macros in C programming.
 
-<table>
+<table class="table">
 <tr>
 <th>Predefined Macro</th>
 <th>Description</th>
