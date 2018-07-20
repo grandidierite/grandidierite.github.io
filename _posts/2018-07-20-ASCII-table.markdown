@@ -973,133 +973,133 @@ There is an Extended ASCII set that supports 8-bit binary representation to hold
         <td>128</td>
         <td>80</td>
         <td>10000000</td>
-        <td>Ä</td>
+        <td>&#128;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>129</td>
         <td>81</td>
         <td>10000001</td>
-        <td>Å</td>
+        <td>&#129;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>130</td>
         <td>82</td>
         <td>10000010</td>
-        <td>Ç</td>
+        <td>&#130;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>131</td>
         <td>83</td>
         <td>10000011</td>
-        <td>É</td>
+        <td>&#131;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>132</td>
         <td>84</td>
         <td>10000100</td>
-        <td>Ñ</td>
+        <td>&#132;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>133</td>
         <td>85</td>
         <td>10000101</td>
-        <td>Ö</td>
+        <td>&#133;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>134</td>
         <td>86</td>
         <td>10000110</td>
-        <td>Ü</td>
+        <td>&#134;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>135</td>
         <td>87</td>
         <td>10000111</td>
-        <td>á</td>
+        <td>&#135;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>136</td>
         <td>88</td>
         <td>10001000</td>
-        <td>à</td>
+        <td>&#136;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>137</td>
         <td>89</td>
         <td>10001001</td>
-        <td>â</td>
+        <td>&#137;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>138</td>
         <td>8A</td>
         <td>10001010</td>
-        <td>ä</td>
+        <td>&#138;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>139</td>
         <td>8B</td>
         <td>10001011</td>
-        <td>ã</td>
+        <td>&#139;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>140</td>
         <td>8C</td>
         <td>10001100</td>
-        <td>å</td>
+        <td>&#140;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>141</td>
         <td>8D</td>
         <td>10001101</td>
-        <td>ç</td>
+        <td>&#141;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>142</td>
         <td>8E</td>
         <td>10001110</td>
-        <td>é</td>
+        <td>&#142;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>143</td>
         <td>8F</td>
         <td>10001111</td>
-        <td>è</td>
+        <td>&#143;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>144</td>
         <td>90</td>
         <td>10010000</td>
-        <td>ê</td>
+        <td>&#144;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>145</td>
         <td>91</td>
         <td>10010001</td>
-        <td>ë</td>
+        <td>&#145;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>146</td>
         <td>92</td>
         <td>10010010</td>
-        <td>í</td>
+        <td>&#146;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
@@ -1113,756 +1113,756 @@ There is an Extended ASCII set that supports 8-bit binary representation to hold
         <td>148</td>
         <td>94</td>
         <td>10010100</td>
-        <td>î</td>
+        <td>&#148;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>149</td>
         <td>95</td>
         <td>10010101</td>
-        <td>ï</td>
+        <td>&#149;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>150</td>
         <td>96</td>
         <td>10010110</td>
-        <td>ñ</td>
+        <td>&#150;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>151</td>
         <td>97</td>
         <td>10010111</td>
-        <td>ó</td>
+        <td>&#151;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>152</td>
         <td>98</td>
         <td>10011000</td>
-        <td>ò</td>
+        <td>&#152;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>153</td>
         <td>99</td>
         <td>10011001</td>
-        <td>ô</td>
+        <td>&#153;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>154</td>
         <td>9A</td>
         <td>10011010</td>
-        <td>ö</td>
+        <td>&#154;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>155</td>
         <td>9B</td>
         <td>10011011</td>
-        <td>õ</td>
+        <td>&#155;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>156</td>
         <td>9C</td>
         <td>10011100</td>
-        <td>ú</td>
+        <td>&#156;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>157</td>
         <td>9D</td>
         <td>10011101</td>
-        <td>ù</td>
+        <td>&#157;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>158</td>
         <td>9E</td>
         <td>10011110</td>
-        <td>û</td>
+        <td>&#158;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>159</td>
         <td>9F</td>
         <td>10011111</td>
-        <td>ü</td>
+        <td>&#159;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>160</td>
         <td>A0</td>
         <td>10100000</td>
-        <td>&nbsp;</td>
+        <td>&#160;</td>
         <td>space</td>
     </tr>
     <tr>
         <td>161</td>
         <td>A1</td>
         <td>10100001</td>
-        <td>°</td>
+        <td>&#161;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>162</td>
         <td>A2</td>
         <td>10100010</td>
-        <td>¢</td>
+        <td>&#162;</td>
         <td>cent</td>
     </tr>
     <tr>
         <td>163</td>
         <td>A3</td>
         <td>10100011</td>
-        <td>£</td>
+        <td>&#163;</td>
         <td>pound</td>
     </tr>
     <tr>
         <td>164</td>
         <td>A4</td>
         <td>10100100</td>
-        <td>§</td>
+        <td>&#164;</td>
         <td>currency sign</td>
     </tr>
     <tr>
         <td>165</td>
         <td>A5</td>
         <td>10100101</td>
-        <td>•</td>
+        <td>&#165;</td>
         <td>yen, yuan</td>
     </tr>
     <tr>
         <td>166</td>
         <td>A6</td>
         <td>10100110</td>
-        <td>¶</td>
+        <td>&#166;</td>
         <td>broken bar</td>
     </tr>
     <tr>
         <td>167</td>
         <td>A7</td>
         <td>10100111</td>
-        <td>ß</td>
+        <td>&#167;</td>
         <td>section sign</td>
     </tr>
     <tr>
         <td>168</td>
         <td>A8</td>
         <td>10101000</td>
-        <td>®</td>
+        <td>&#168;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>169</td>
         <td>A9</td>
         <td>10101001</td>
-        <td>©</td>
+        <td>&#169;</td>
         <td>copyright</td>
     </tr>
     <tr>
         <td>170</td>
         <td>AA</td>
         <td>10101010</td>
-        <td>™</td>
+        <td>&#170;</td>
         <td>ordinal indicator</td>
     </tr>
     <tr>
         <td>171</td>
         <td>AB</td>
         <td>10101011</td>
-        <td>´</td>
+        <td>&#171;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>172</td>
         <td>AC</td>
         <td>10101100</td>
-        <td>¨</td>
+        <td>&#172;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>173</td>
         <td>AD</td>
         <td>10101101</td>
-        <td>&shy;</td>
+        <td>&#173;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>174</td>
         <td>AE</td>
         <td>10101110</td>
-        <td>Æ</td>
+        <td>&#174;</td>
         <td>registered trademark</td>
     </tr>
     <tr>
         <td>175</td>
         <td>AF</td>
         <td>10101111</td>
-        <td>Ø</td>
+        <td>&#175;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>176</td>
         <td>B0</td>
         <td>10110000</td>
-        <td>∞</td>
+        <td>&#176;</td>
         <td>degree</td>
     </tr>
     <tr>
         <td>177</td>
         <td>B1</td>
         <td>10110001</td>
-        <td>±</td>
+        <td>&#177;</td>
         <td>plus-minus</td>
     </tr>
     <tr>
         <td>178</td>
         <td>B2</td>
         <td>10110010</td>
-        <td>≤</td>
+        <td>&#178;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>179</td>
         <td>B3</td>
         <td>10110011</td>
-        <td>≥</td>
+        <td>&#179;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>180</td>
         <td>B4</td>
         <td>10110100</td>
-        <td>¥</td>
+        <td>&#180;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>181</td>
         <td>B5</td>
         <td>10110101</td>
-        <td>µ</td>
+        <td>&#181;</td>
         <td>mu</td>
     </tr>
     <tr>
         <td>182</td>
         <td>B6</td>
         <td>10110110</td>
-        <td>∂</td>
+        <td>&#182;</td>
         <td>pilcrow</td>
     </tr>
     <tr>
         <td>183</td>
         <td>B7</td>
         <td>10110111</td>
-        <td>∑</td>
+        <td>&#183;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>184</td>
         <td>B8</td>
         <td>10111000</td>
-        <td>∏</td>
+        <td>&#184;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>185</td>
         <td>B9</td>
         <td>10111001</td>
-        <td>π</td>
+        <td>&#185;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>186</td>
         <td>BA</td>
         <td>10111010</td>
-        <td>∫</td>
+        <td>&#186;</td>
         <td>ordinal indicator</td>
     </tr>
     <tr>
         <td>187</td>
         <td>BB</td>
         <td>10111011</td>
-        <td>ª</td>
+        <td>&#187;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>188</td>
         <td>BC</td>
         <td>10111100</td>
-        <td>º</td>
+        <td>&#188;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>189</td>
         <td>BD</td>
         <td>10111101</td>
-        <td>Ω</td>
+        <td>&#189;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>190</td>
         <td>BE</td>
         <td>10111110</td>
-        <td>æ</td>
+        <td>&#190;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>191</td>
         <td>BF</td>
         <td>10111111</td>
-        <td>ø</td>
+        <td>&#191;</td>
         <td>inverted question mark</td>
     </tr>
     <tr>
         <td>192</td>
         <td>C0</td>
         <td>11000000</td>
-        <td>¿</td>
+        <td>&#192;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>193</td>
         <td>C1</td>
         <td>11000001</td>
-        <td>¡</td>
+        <td>&#193;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>194</td>
         <td>C2</td>
         <td>11000010</td>
-        <td>¬</td>
+        <td>&#194;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>195</td>
         <td>C3</td>
         <td>11000011</td>
-        <td>√</td>
+        <td>&#195;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>196</td>
         <td>C4</td>
         <td>11000100</td>
-        <td>ƒ</td>
+        <td>&#196;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>197</td>
         <td>C5</td>
         <td>11000101</td>
-        <td>≈</td>
+        <td>&#197;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>198</td>
         <td>C6</td>
         <td>11000110</td>
-        <td>∆</td>
+        <td>&#198;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>199</td>
         <td>C7</td>
         <td>11000111</td>
-        <td>«</td>
+        <td>&#199;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>200</td>
         <td>C8</td>
         <td>11001000</td>
-        <td>»</td>
+        <td>&#200;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>201</td>
         <td>C9</td>
         <td>11001001</td>
-        <td>…</td>
+        <td>&#201;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>202</td>
         <td>CA</td>
         <td>11001010</td>
-        <td> </td>
+        <td>&#202;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>203</td>
         <td>CB</td>
         <td>11001011</td>
-        <td>À</td>
+        <td>&#203;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>204</td>
         <td>CC</td>
         <td>11001100</td>
-        <td>Ã</td>
+        <td>&#204;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>205</td>
         <td>CD</td>
         <td>11001101</td>
-        <td>Õ</td>
+        <td>&#205;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>206</td>
         <td>CE</td>
         <td>11001110</td>
-        <td>Œ</td>
+        <td>&#206;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>207</td>
         <td>CF</td>
         <td>11001111</td>
-        <td>œ</td>
+        <td>&#207;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>208</td>
         <td>D0</td>
         <td>11010000</td>
-        <td>–</td>
+        <td>&#208;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>209</td>
         <td>D1</td>
         <td>11010001</td>
-        <td>—</td>
+        <td>&#209;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>210</td>
         <td>D2</td>
         <td>11010010</td>
-        <td>“</td>
+        <td>&#210;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>211</td>
         <td>D3</td>
         <td>11010011</td>
-        <td>”</td>
+        <td>&#211;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>212</td>
         <td>D4</td>
         <td>11010100</td>
-        <td>‘</td>
+        <td>&#212;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>213</td>
         <td>D5</td>
         <td>11010101</td>
-        <td>’</td>
+        <td>&#213;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>214</td>
         <td>D6</td>
         <td>11010110</td>
-        <td>÷</td>
+        <td>&#214;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>215</td>
         <td>D7</td>
         <td>11010111</td>
-        <td>◊</td>
+        <td>&#215;</td>
         <td>multiplication sign</td>
     </tr>
     <tr>
         <td>216</td>
         <td>D8</td>
         <td>11011000</td>
-        <td>ÿ</td>
+        <td>&#216;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>217</td>
         <td>D9</td>
         <td>11011001</td>
-        <td>Ÿ</td>
+        <td>&#217;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>218</td>
         <td>DA</td>
         <td>11011010</td>
-        <td>⁄</td>
+        <td>&#218;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>219</td>
         <td>DB</td>
         <td>11011011</td>
-        <td>€</td>
+        <td>&#219;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>220</td>
         <td>DC</td>
         <td>11011100</td>
-        <td>‹</td>
+        <td>&#220;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>221</td>
         <td>DD</td>
         <td>11011101</td>
-        <td>›</td>
+        <td>&#221;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>222</td>
         <td>DE</td>
         <td>11011110</td>
-        <td>ﬁ</td>
+        <td>&#222;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>223</td>
         <td>DF</td>
         <td>11011111</td>
-        <td>ﬂ</td>
+        <td>&#223;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>224</td>
         <td>E0</td>
         <td>11100000</td>
-        <td>‡</td>
+        <td>&#224;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>225</td>
         <td>E1</td>
         <td>11100001</td>
-        <td>·</td>
+        <td>&#225;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>226</td>
         <td>E2</td>
         <td>11100010</td>
-        <td>‚</td>
+        <td>&#226;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>227</td>
         <td>E3</td>
         <td>11100011</td>
-        <td>„</td>
+        <td>&#227;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>228</td>
         <td>E4</td>
         <td>11100100</td>
-        <td>‰</td>
+        <td>&#228;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>229</td>
         <td>E5</td>
         <td>11100101</td>
-        <td>Â</td>
+        <td>&#229;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>230</td>
         <td>E6</td>
         <td>11100110</td>
-        <td>Ê</td>
+        <td>&#230;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>231</td>
         <td>E7</td>
         <td>11100111</td>
-        <td>Á</td>
+        <td>&#231;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>232</td>
         <td>E8</td>
         <td>11101000</td>
-        <td>Ë</td>
+        <td>&#232;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>233</td>
         <td>E9</td>
         <td>11101001</td>
-        <td>È</td>
+        <td>&#233;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>234</td>
         <td>EA</td>
         <td>11101010</td>
-        <td>Í</td>
+        <td>&#234;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>235</td>
         <td>EB</td>
         <td>11101011</td>
-        <td>Î</td>
+        <td>&#235;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>236</td>
         <td>EC</td>
         <td>11101100</td>
-        <td>Ï</td>
+        <td>&#236;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>237</td>
         <td>ED</td>
         <td>11101101</td>
-        <td>Ì</td>
+        <td>&#237;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>238</td>
         <td>EE</td>
         <td>11101110</td>
-        <td>Ó</td>
+        <td>&#238;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>239</td>
         <td>EF</td>
         <td>11101111</td>
-        <td>Ô</td>
+        <td>&#239;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>240</td>
         <td>F0</td>
         <td>11110000</td>
-        <td></td>
+        <td>&#240;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>241</td>
         <td>F1</td>
         <td>11110001</td>
-        <td>Ò</td>
+        <td>&#241;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>242</td>
         <td>F2</td>
         <td>11110010</td>
-        <td>Ú</td>
+        <td>&#242;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>243</td>
         <td>F3</td>
         <td>11110011</td>
-        <td>Û</td>
+        <td>&#243;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>244</td>
         <td>F4</td>
         <td>11110100</td>
-        <td>Ù</td>
+        <td>&#244;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>245</td>
         <td>F5</td>
         <td>11110101</td>
-        <td>ı</td>
+        <td>&#245;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>246</td>
         <td>F6</td>
         <td>11110110</td>
-        <td>ˆ</td>
+        <td>&#246;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>247</td>
         <td>F7</td>
         <td>11110111</td>
-        <td>˜</td>
+        <td>&#247;</td>
         <td>obelus</td>
     </tr>
     <tr>
         <td>248</td>
         <td>F8</td>
         <td>11111000</td>
-        <td>¯</td>
+        <td>&#248;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>249</td>
         <td>F9</td>
         <td>11111001</td>
-        <td>˘</td>
+        <td>&#249;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>250</td>
         <td>FA</td>
         <td>11111010</td>
-        <td>˙</td>
+        <td>&#250;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>251</td>
         <td>FB</td>
         <td>11111011</td>
-        <td>˚</td>
+        <td>&#251;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>252</td>
         <td>FC</td>
         <td>11111100</td>
-        <td>¸</td>
+        <td>&#252;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>253</td>
         <td>FD</td>
         <td>11111101</td>
-        <td>˝</td>
+        <td>&#253;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>254</td>
         <td>FE</td>
         <td>11111110</td>
-        <td>˛</td>
+        <td>&#254;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>255</td>
         <td>FF</td>
         <td>11111111</td>
-        <td>ˇ</td>
+        <td>&#255;</td>
         <td>&nbsp;</td>
     </tr>
 </tbody>
