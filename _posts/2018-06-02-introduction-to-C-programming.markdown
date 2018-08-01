@@ -13,8 +13,7 @@ tags: [C]
 <li>Comments</li></ol>
 
 A C Program always starts executing in a special function called <code>main()</code> function. Let's take a look at a
-simple
-C code that would print the words "Hello World"
+simple C code that would print the words "Hello World"
 
 <pre>
 <code data-language="c">#include &lt;stdio.h&gt;
