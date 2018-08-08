@@ -81,7 +81,7 @@ instruction. These are typically used to specify constant arithmetic, logical or
 
 The multiplicative product's high-order and low-order doublewords are stored in <b>EDX</b> and <b>EAX</b>, respectively.
 
-<div style="overflow:auto;">l
+<div style="overflow:auto;">
 <table class="table table-bordered">
 <tr>
 <th>Access Memory</th>

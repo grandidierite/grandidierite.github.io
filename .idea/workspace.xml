@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eff0f1aa-8645-48ba-ae24-362d7092e720" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2018-08-01-instruction-operands-and-memory-addressing-modes-in-NASM-32-bit.markdown" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +13,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2018-08-01-instruction-operands-and-memory-addressing-modes-in-NASM-32-bit.markdown" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-08-01-instruction-operands-and-memory-addressing-modes-in-NASM-32-bit.markdown">
+      <file leaf-file-name="231Lib.asm" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../231Lib.asm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="542">
-              <caret line="103" column="5" lean-forward="true" selection-start-line="103" selection-start-column="5" selection-end-line="103" selection-end-column="5" />
+            <state relative-caret-position="255">
+              <caret line="95" column="29" lean-forward="false" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testLib.asm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../testLib.asm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="457">
+              <caret line="82" column="20" lean-forward="false" selection-start-line="80" selection-start-column="8" selection-end-line="82" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -27,8 +37,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>declaration</find>
-      <find>of</find>
       <find>jpg</find>
       <find>wchar.</find>
       <find>&lt;code&gt;int r</find>
@@ -57,6 +65,8 @@
       <find>55304</find>
       <find>img</find>
       <find>10010000</find>
+      <find>negativ</find>
+      <find>return</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -107,6 +117,10 @@
         <option value="$PROJECT_DIR$/_posts/2018-06-02-introduction-to-C-programming.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-08-01-introduction-to-NASM-32-bit.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-08-01-instruction-operands-and-memory-addressing-modes-in-NASM-32-bit.markdown" />
+        <option value="$PROJECT_DIR$/../231Lib.asm" />
+        <option value="$PROJECT_DIR$/../testLib.asm" />
+        <option value="$PROJECT_DIR$/_posts/2018-08-03-integer-arithmetic-in-NASM-32-bit.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-08-06-functions-and-stack-in-NASM-32-bit.markdown" />
       </list>
     </option>
   </component>
@@ -200,7 +214,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/Irvine" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunDashboard">
@@ -233,12 +247,12 @@
       <workItem from="1530952083272" duration="1181000" />
       <workItem from="1530955247028" duration="38107000" />
       <workItem from="1531623332446" duration="103862000" />
-      <workItem from="1533213185560" duration="9106000" />
+      <workItem from="1533213185560" duration="71333000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="454025000" />
+    <option name="totallyTimeSpent" value="516252000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -274,29 +288,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/rainbow/demos/c.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-06-02-C-programming-introduction.markdown" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-06-02-data-types-in-C-programming.markdown" />
-    <entry file="file://$PROJECT_DIR$/assets/bootstrap/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="217" column="28" lean-forward="true" selection-start-line="217" selection-start-column="28" selection-end-line="217" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="727">
-          <caret line="43" column="25" lean-forward="false" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -448,26 +439,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-07-30-basic-execution-environment-of-intel-processor-architecture.markdown" />
-    <entry file="file://$PROJECT_DIR$/_posts/2018-08-01-introduction-to-NASM-32-bit.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="46" column="6" lean-forward="true" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-07-30-basic-execution-environment-of-intel-processor-32-bit-architecture.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-02-introduction-to-C-programming.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -482,8 +457,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-08-01-instruction-operands-and-memory-addressing-modes-in-NASM-32-bit.markdown">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="147" column="4" lean-forward="true" selection-start-line="147" selection-start-column="4" selection-end-line="147" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-03-instruction-operands-and-memory-addressing-modes-in-NASM-32-bit.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-01-introduction-to-NASM-32-bit.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="36" column="25" lean-forward="false" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-02-introduction-to-C-programming.markdown">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="542">
-          <caret line="103" column="5" lean-forward="true" selection-start-line="103" selection-start-column="5" selection-end-line="103" selection-end-column="5" />
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../testLib.asm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="82" column="20" lean-forward="false" selection-start-line="80" selection-start-column="8" selection-end-line="82" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-03-integer-arithmetic-in-NASM-32-bit.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-06-functions-and-stack-in-NASM-32-bit.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../231Lib.asm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="95" column="29" lean-forward="false" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
           <folding />
         </state>
       </provider>
