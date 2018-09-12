@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eff0f1aa-8645-48ba-ae24-362d7092e720" name="Default" comment="" />
+    <list default="true" id="eff0f1aa-8645-48ba-ae24-362d7092e720" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2018-07-07-functions-in-C-programming.markdown" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-07-07-standard-library-functions-in-C-programming.markdown" afterPath="$PROJECT_DIR$/_posts/2018-07-07-standard-library-functions-in-C-programming.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-07-20-ASCII-table.markdown" afterPath="$PROJECT_DIR$/_posts/2018-07-20-ASCII-table.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-07-23-looking-at-the-source-code-for-function-isalpha-isdigit-isalnum-isspace-islower-isupper-isxdigit-iscntrl-isprint-ispunct-isgraph-tolower-and-toupper-in-C-programming.markdown" afterPath="$PROJECT_DIR$/_posts/2018-07-23-looking-at-the-source-code-for-function-isalpha-isdigit-isalnum-isspace-islower-isupper-isxdigit-iscntrl-isprint-ispunct-isgraph-tolower-and-toupper-in-C-programming.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-08-10-intel-8086-registers-and-memory-organization-NASM-16-bit.markdown" afterPath="$PROJECT_DIR$/_posts/2018-08-10-intel-8086-registers-and-memory-organization-NASM-16-bit.markdown" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,28 +21,8 @@
       <file leaf-file-name="231Lib.asm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../231Lib.asm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="18" column="51" lean-forward="false" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018-08-10-intel-8086-registers-and-memory-organization-NASM-16-bit.markdown" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-08-10-intel-8086-registers-and-memory-organization-NASM-16-bit.markdown">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018-07-30-basic-execution-environment-of-intel-processor-32-bit-architecture.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-07-30-basic-execution-environment-of-intel-processor-32-bit-architecture.markdown">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="57" column="53" lean-forward="false" selection-start-line="57" selection-start-column="53" selection-end-line="57" selection-end-column="53" />
+            <state relative-caret-position="0">
+              <caret line="29" column="37" lean-forward="false" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -44,8 +31,28 @@
       <file leaf-file-name="testLib.asm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../testLib.asm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="457">
-              <caret line="82" column="20" lean-forward="false" selection-start-line="80" selection-start-column="8" selection-end-line="82" selection-end-column="20" />
+            <state relative-caret-position="341">
+              <caret line="70" column="32" lean-forward="false" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-07-20-ASCII-table.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-07-20-ASCII-table.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="445">
+              <caret line="903" column="25" lean-forward="false" selection-start-line="903" selection-start-column="25" selection-end-line="903" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pagination.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/pagination.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="413">
+              <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -55,28 +62,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>wchar.</find>
-      <find>&lt;code&gt;int r</find>
-      <find>&lt;code&gt;int w</find>
-      <find>&lt;code&gt;Date</find>
-      <find>table</find>
-      <find>/*</find>
-      <find>id=</find>
-      <find>dta</find>
-      <find>&lt;tab</find>
-      <find>&lt;/tab</find>
-      <find>exten</find>
-      <find>isbl</find>
-      <find>&lt;</find>
-      <find>__libc_tsd</find>
-      <find>__locale_data</find>
-      <find>_nl_current_LC_CTYPE</find>
-      <find>&lt;code&gt;isalpha&lt;/code&gt;, &lt;code&gt;isdigit&lt;/code&gt;, &lt;code&gt;isalnum&lt;/code&gt;, &lt;code&gt;isspace&lt;/code&gt;</find>
-      <find>int isalpha (int c) { return ((const uint16_t *) ((*_nl_current_LC_CTYPE)-&gt;values[((int)</find>
-      <find>__LC_CTYPE</find>
-      <find>_NL_ITEM</find>
-      <find>_NL_CTYPE_CLASS</find>
-      <find>_NL_CTYPE_TOLOWER</find>
       <find>61</find>
       <find>_NL_CTYPE_TOUPPER</find>
       <find>55304</find>
@@ -85,7 +70,32 @@
       <find>negativ</find>
       <find>return</find>
       <find>IF</find>
+      <find>&lt;font size=&quot;1&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;&lt;font size=&quot;2&quot;&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;</find>
+      <find>SHL</find>
+      <find>example</find>
+      <find>Example</find>
+      <find>AAD</find>
+      <find>DAS</find>
+      <find>DAA</find>
+      <find>STI</find>
+      <find>STI&lt;/co</find>
+      <find>CLI</find>
+      <find>Output</find>
+      <find>reserved for dia</find>
+      <find>Palette Register</find>
+      <find>parse file</find>
+      <find>as follow</find>
+      <find>int 13h</find>
+      <find>Interrupt 21H Service 15 : Open File Using FCBs</find>
+      <find>&lt;pre</find>
+      <find>(&lt;b</find>
+      <find>\</find>
+      <find>&lt;table</find>
+      <find>If an error is encountered, use Service 0h to reset</find>
     </findStrings>
+    <replaceStrings>
+      <replace>&amp;nbsp;</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -93,12 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tags.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/_posts/2017-06-02-C-programming-introduction.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2017-06-02-data-types-in-C-programming.markdown" />
-        <option value="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_posts/2017-06-02-variables-and-data-types-in-C-programming.markdown" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
@@ -107,7 +111,6 @@
         <option value="$PROJECT_DIR$/_posts/2017-06-07-compilation-process-in-C-programing.markdown" />
         <option value="$PROJECT_DIR$/_posts/2017-06-02-introduction-to-C-programming.markdown" />
         <option value="$PROJECT_DIR$/_posts/2017-06-07-macros-and-preprocessor-directives-in-C-programming.markdown" />
-        <option value="$PROJECT_DIR$/_includes/pagination.html" />
         <option value="$PROJECT_DIR$/_posts/2017-06-29-operators-in-C-programming.markdown" />
         <option value="$PROJECT_DIR$/_posts/2017-06-28-storage-class-specifiers-in-C-programming.markdown" />
         <option value="$PROJECT_DIR$/_posts/2017-06-27-macros-and-preprocessor-directives-in-C-programming.markdown" />
@@ -121,15 +124,12 @@
         <option value="$PROJECT_DIR$/_posts/2017-07-03-enum-structure-and-union-in-C-programming.markdown" />
         <option value="$PROJECT_DIR$/_posts/2017-07-04-structure-alignment-and-padding-in-C-programming.markdown" />
         <option value="$PROJECT_DIR$/_posts/2017-07-04-structure-alignment-and-packing-in-C-programming.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-07-07-standard-library-functions-in-C-programming.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-07-07-functions-in-C-programming.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-06-27-macros-and-preprocessor-directives-in-C-programming.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-07-08-dynamic-memory-allocation-C-programming.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-07-13-static-variables-and static-functions-in-C-programming.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-07-13-inline-functions-in-C-programming.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-07-20-ASCII-table.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-07-19-looking-at-the-source-code-for-function-isalpha-isdigit-isalnum-isspace-islower-isupper-isxdigit-iscntrl-isprint-ispunct-isgraph-tolower-and-toupper-in-C-programming.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-07-23-looking-at-the-source-code-for-function-isalpha-isdigit-isalnum-isspace-islower-isupper-isxdigit-iscntrl-isprint-ispunct-isgraph-tolower-and-toupper-in-C-programming.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-07-30-basic-execution-environment-of-intel-processor-architecture.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-07-30-basic-execution-environment-of-intel-processor-32-bit-architecture.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-06-02-introduction-to-C-programming.markdown" />
@@ -141,6 +141,19 @@
         <option value="$PROJECT_DIR$/_posts/2018-08-06-functions-and-stack-in-NASM-32-bit.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-08-08-integer-arithmetic-in-NASM-32-bit.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-08-08-8086-intel-registers-and-memory-organization-NASM-16-bit.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-08-10-Interrupts.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-08-10-bios-interrupts.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-07-20-ASCII-table.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-08-23-basic-instructions.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-08-10-intel-8086-registers-and-memory-organization-NASM-16-bit.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-08-23-interrupts.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-08-10-x86-bootloader.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-07-23-looking-at-the-source-code-for-function-isalpha-isdigit-isalnum-isspace-islower-isupper-isxdigit-iscntrl-isprint-ispunct-isgraph-tolower-and-toupper-in-C-programming.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-08-23-bios-interrupts.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-09-03-dos-interrupts.markdown" />
+        <option value="$PROJECT_DIR$/2018-07-07-functions-in-C-programming.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-07-07-standard-library-functions-in-C-programming.markdown" />
+        <option value="$PROJECT_DIR$/_includes/pagination.html" />
       </list>
     </option>
   </component>
@@ -152,8 +165,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
+    <option name="x" value="36" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
@@ -191,7 +203,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -230,11 +241,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mikeos-4.5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunDashboard">
@@ -267,27 +279,32 @@
       <workItem from="1530952083272" duration="1181000" />
       <workItem from="1530955247028" duration="38107000" />
       <workItem from="1531623332446" duration="103862000" />
-      <workItem from="1533213185560" duration="101749000" />
+      <workItem from="1533213185560" duration="147861000" />
+      <workItem from="1534584122745" duration="72004000" />
+      <workItem from="1535258717313" duration="12702000" />
+      <workItem from="1535300772802" duration="57061000" />
+      <workItem from="1535531148577" duration="200451000" />
+      <workItem from="1536723670868" duration="19885000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="546668000" />
+    <option name="totallyTimeSpent" value="954883000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21303074" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22693998" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -308,31 +325,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2017-06-07-decision-making-and-loops-in-C-programming - 複製.markdown" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-06-07-macros-and-preprocessor-directives-in-C-programming.markdown" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-06-07-compilation-process-in-C-programing.markdown" />
-    <entry file="file://$PROJECT_DIR$/_includes/pagination.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="55" column="6" lean-forward="false" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-06-04-variables-and-data-types-in-C-programming.markdown" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-06-29-operators-in-C-programming.markdown" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-06-28-storage-class-specifiers-in-C-programming.markdown" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-06-30-constants-and-arrays-in-C-programming.markdown" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-06-27-macros-and-preprocessor-directives-in-C-programming.markdown" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-07-01-constants-and-arrays-in-C-programming.markdown" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-07-01-pointers-in-C-programming.markdown" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-06-07-decision-making-and-loops-in-C-programming.markdown" />
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="136" column="0" lean-forward="false" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-07-02-enum-structure-and-union-in-C-programming.markdown" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-07-03-enum-structure-and-union-in-C-programming.markdown" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-07-04-structure-alignment-and-padding-in-C-programming.markdown" />
@@ -354,25 +346,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-27-macros-and-preprocessor-directives-in-C-programming.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="186" column="10" lean-forward="false" selection-start-line="186" selection-start-column="8" selection-end-line="186" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-07-13-inline-functions-in-C-programming.markdown" />
     <entry file="file://$PROJECT_DIR$/_posts/2018-07-08-dynamic-memory-allocation-C-programming.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
           <caret line="34" column="58" lean-forward="false" selection-start-line="34" selection-start-column="58" selection-end-line="34" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-07-07-standard-library-functions-in-C-programming.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="27" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -404,13 +382,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-07-07-functions-in-C-programming.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="38" column="25" lean-forward="false" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-07-19-looking-at-the-source-code-for-function-isalpha-isdigit-isalnum-isspace-islower-isupper-isxdigit-iscntrl-isprint-ispunct-isgraph-tolower-and-toupper-in-C-programming.markdown" />
     <entry file="file://$PROJECT_DIR$/_posts/2018-07-06-structure-alignment-and-packing-in-C-programming.markdown">
       <provider selected="true" editor-type-id="text-editor">
@@ -419,44 +390,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-07-20-ASCII-table.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="1095" column="23" lean-forward="false" selection-start-line="1095" selection-start-column="23" selection-end-line="1095" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-07-23-looking-at-the-source-code-for-function-isalpha-isdigit-isalnum-isspace-islower-isupper-isxdigit-iscntrl-isprint-ispunct-isgraph-tolower-and-toupper-in-C-programming.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-495">
-          <caret line="1236" column="9" lean-forward="false" selection-start-line="1236" selection-start-column="9" selection-end-line="1236" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-07-30-basic-execution-environment-of-intel-processor-architecture.markdown" />
     <entry file="file://$PROJECT_DIR$/_posts/2018-06-04-variables-and-data-types-in-C-programming.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="106" column="6" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="106" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-08-01-instruction-operands-and-memory-addressing-modes-in-NASM-32-bit.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-01-instruction-operands-and-memory-addressing-modes-in-NASM-32-bit.markdown" />
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-03-integer-arithmetic-in-NASM-32-bit.markdown" />
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-06-functions-and-stack-in-NASM-32-bit.markdown" />
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-08-integer-arithmetic-in-NASM-32-bit.markdown" />
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-08-functions-and-stack-in-NASM-32-bit.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="147" column="4" lean-forward="true" selection-start-line="147" selection-start-column="4" selection-end-line="147" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="391">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-08-8086-intel-registers-and-memory-organization-NASM-16-bit.markdown" />
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-10-8086-intel-registers-and-memory-organization-NASM-16-bit.markdown" />
+    <entry file="file://$PROJECT_DIR$/_posts/2018-07-30-basic-execution-environment-of-intel-processor-32-bit-architecture.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="57" column="53" lean-forward="false" selection-start-line="57" selection-start-column="53" selection-end-line="57" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-08-01-introduction-to-NASM-32-bit.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="36" column="25" lean-forward="false" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
-          <folding />
+        <state relative-caret-position="493">
+          <caret line="32" column="6" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="32" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-10-Interrupts.markdown" />
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-10-bios-interrupts.markdown" />
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-24-integer-arithmetic-in-NASM-32-bit.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-03-instruction-operands-and-memory-addressing-modes-in-NASM-32-bit.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-897">
+          <caret line="78" column="8" lean-forward="true" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -464,94 +445,139 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="542">
           <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-23-basic-instructions.markdown" />
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-10-intel-8086-registers-and-memory-organization-NASM-16-bit.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="111" column="61" lean-forward="false" selection-start-line="111" selection-start-column="61" selection-end-line="111" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-23-interrupts.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="267" column="0" lean-forward="false" selection-start-line="267" selection-start-column="0" selection-end-line="267" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-29-basic-instructions.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1358" column="0" lean-forward="false" selection-start-line="1358" selection-start-column="0" selection-end-line="1358" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-27-macros-and-preprocessor-directives-in-C-programming.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="385" column="29" lean-forward="true" selection-start-line="385" selection-start-column="29" selection-end-line="385" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../testLib.asm">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-07-23-looking-at-the-source-code-for-function-isalpha-isdigit-isalnum-isspace-islower-isupper-isxdigit-iscntrl-isprint-ispunct-isgraph-tolower-and-toupper-in-C-programming.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="82" column="20" lean-forward="false" selection-start-line="80" selection-start-column="8" selection-end-line="82" selection-end-column="20" />
+        <state relative-caret-position="-23541">
+          <caret line="421" column="0" lean-forward="true" selection-start-line="421" selection-start-column="0" selection-end-line="421" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-08-03-integer-arithmetic-in-NASM-32-bit.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-23-bios-interrupts.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="85">
+          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-08-06-functions-and-stack-in-NASM-32-bit.markdown">
+    <entry file="file://$PROJECT_DIR$/2018-07-07-functions-in-C-programming.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        <state relative-caret-position="85">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-08-08-integer-arithmetic-in-NASM-32-bit.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-07-07-functions-in-C-programming.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="544">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-07-30-basic-execution-environment-of-intel-processor-32-bit-architecture.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-09-03-dos-interrupts.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="57" column="53" lean-forward="false" selection-start-line="57" selection-start-column="53" selection-end-line="57" selection-end-column="53" />
+        <state relative-caret-position="-564">
+          <caret line="2032" column="6" lean-forward="false" selection-start-line="2032" selection-start-column="0" selection-end-line="2032" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-08-03-instruction-operands-and-memory-addressing-modes-in-NASM-32-bit.markdown">
+    <entry file="file://$PROJECT_DIR$/2018-07-07-list-of-.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-08-08-functions-and-stack-in-NASM-32-bit.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-08-08-8086-intel-registers-and-memory-organization-NASM-16-bit.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-08-10-8086-intel-registers-and-memory-organization-NASM-16-bit.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        <state relative-caret-position="204">
+          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../231Lib.asm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="18" column="51" lean-forward="false" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+        <state relative-caret-position="0">
+          <caret line="29" column="37" lean-forward="false" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-08-10-intel-8086-registers-and-memory-organization-NASM-16-bit.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-10-x86-bootloader.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="44">
+          <caret line="4" column="57" lean-forward="true" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../testLib.asm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="70" column="32" lean-forward="false" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-07-07-list-of-standard-c-library-functions.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="36" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="19" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-07-07-standard-library-functions-in-C-programming.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="49" column="21" lean-forward="true" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-07-20-ASCII-table.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="903" column="25" lean-forward="false" selection-start-line="903" selection-start-column="25" selection-end-line="903" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/pagination.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
           <folding />
         </state>
       </provider>

@@ -172,7 +172,7 @@ However, to get the functional forms, you can do one of these
 If you want to look at the source code of those functions, you can download glibc software on its official web <a href="https://www.gnu.org/software/libc/" rel="noreferrer" rel="nofollow" target="_blank">glibc</a>. The glibc version that I downloaded is
 <b>glibc-2.27</b>.
 
-The macro forms of function <code>isalpha</code>, <code>isdigit</code>, <code>isalnum</code>, <code>isspace</code>, <code>islower</code>, <code>isupper</code>, <code>isxdigit</code>, <code>iscntrl</code>, <code>isprint</code>, <code>ispunct</code>, <code>isgraph</code> defined in <code>glibc-2.27/ctype/ctype.h</code> look as follow
+The macro forms of function <code>isalpha</code>, <code>isdigit</code>, <code>isalnum</code>, <code>isspace</code>, <code>islower</code>, <code>isupper</code>, <code>isxdigit</code>, <code>iscntrl</code>, <code>isprint</code>, <code>ispunct</code>, <code>isgraph</code> defined in <code>glibc-2.27/ctype/ctype.h</code> look as follows
 
 <pre>
 <code data-language="c"># define isalnum(c)	__isctype((c), _ISalnum)
@@ -190,7 +190,7 @@ The macro forms of function <code>isalpha</code>, <code>isdigit</code>, <code>is
 </pre>
 
 And the functional forms of function <code>isalpha</code>, <code>isdigit</code>, <code>isalnum</code>,
-<code>isspace</code>, <code>islower</code>, <code>isupper</code>, <code>isxdigit</code>, <code>iscntrl</code>, <code>isprint</code>, <code>ispunct</code>, <code>isgraph</code> defined in <code>glibc-2.27/ctype/ctype.h</code> declared in <code>glibc-2.27/ctype/ctype.h</code> look as follow
+<code>isspace</code>, <code>islower</code>, <code>isupper</code>, <code>isxdigit</code>, <code>iscntrl</code>, <code>isprint</code>, <code>ispunct</code>, <code>isgraph</code> defined in <code>glibc-2.27/ctype/ctype.h</code> declared in <code>glibc-2.27/ctype/ctype.h</code> look as follows
 
 <pre>
 <code data-language="c">__exctype (isalnum);
@@ -213,7 +213,7 @@ __exctype (isblank);</code>
 <code data-language="c">#define	__exctype(name)	extern int name (int) __THROW</code>
 </pre>
 
-If we expand the macro, the declarations of function <code>isalpha</code>, <code>isdigit</code>, <code>isalnum</code>, <code>isspace</code>, <code>islower</code>, <code>isupper</code>, <code>isxdigit</code>, <code>iscntrl</code>, <code>isprint</code>, <code>ispunct</code>, <code>isgraph</code> will look as follow
+If we expand the macro, the declarations of function <code>isalpha</code>, <code>isdigit</code>, <code>isalnum</code>, <code>isspace</code>, <code>islower</code>, <code>isupper</code>, <code>isxdigit</code>, <code>iscntrl</code>, <code>isprint</code>, <code>ispunct</code>, <code>isgraph</code> will look as follows
 
 <pre>
 <code data-language="c">extern int isalnum (int) __attribute__ ((__nothrow__ ));
@@ -230,7 +230,8 @@ extern int isxdigit (int) __attribute__ ((__nothrow__ ));
 extern int isblank (int) __attribute__ ((__nothrow__ ));</code>
 </pre>
 
-The function <code>tolower</code> and <code>toupper</code> are declared in <code>glibc-2.27/ctype/ctype.h</code> as follow
+The function <code>tolower</code> and <code>toupper</code> are declared in <code>glibc-2.27/ctype/ctype.h</code> as
+follows
 
 <pre>
 <code data-language="c">extern int tolower (int __c) __THROW;
@@ -485,7 +486,7 @@ __ctype_init (void)
 }</code>
 </pre>
 
-Therefore, the function <code>isalpha</code>, <code>isdigit</code>, <code>isalnum</code>, <code>isspace</code>, <code>islower</code>, <code>isupper</code>, <code>isxdigit</code>, <code>iscntrl</code>, <code>isprint</code>, <code>ispunct</code>, <code>isgraph</code> become as follow
+Therefore, the function <code>isalpha</code>, <code>isdigit</code>, <code>isalnum</code>, <code>isspace</code>, <code>islower</code>, <code>isupper</code>, <code>isxdigit</code>, <code>iscntrl</code>, <code>isprint</code>, <code>ispunct</code>, <code>isgraph</code> become as follows
 
 <pre>
 <code data-language="c">int isalnum (int c) { return __isctype (c, _ISalnum); }
@@ -1527,7 +1528,7 @@ So we can rewrite the initialization of <code>_nl_global_locale</code> as follow
 };</code>
 </pre>
 
-Finally, we can write the function <code>isalpha</code>, <code>isdigit</code>, <code>isalnum</code>, <code>isspace</code>, <code>islower</code>, <code>isupper</code>, <code>isxdigit</code>, <code>iscntrl</code>, <code>isprint</code>, <code>ispunct</code>, <code>isgraph</code>, <code>tolower</code> and <code>toupper</code> as follow
+Finally, we can write the function <code>isalpha</code>, <code>isdigit</code>, <code>isalnum</code>, <code>isspace</code>, <code>islower</code>, <code>isupper</code>, <code>isxdigit</code>, <code>iscntrl</code>, <code>isprint</code>, <code>ispunct</code>, <code>isgraph</code>, <code>tolower</code> and <code>toupper</code> as follows
 
 <pre>
 <code data-language="c">int isalnum (int c) { return ((const uint16_t *) ((&_nl_C_LC_CTYPE)->values[((int) (_NL_CTYPE_CLASS) & 0xffff)].string) + 128)[(int) (c)] & (unsigned short int) _ISalnum); }

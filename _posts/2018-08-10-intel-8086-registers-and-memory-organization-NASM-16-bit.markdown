@@ -101,10 +101,10 @@ add ax,4</code>
 
 The result of <code>ax</code> is 32900 or 10000000 10000100 in binary. Only 8 low bits are checked, since there are 2 bits of 1s in 8 low bits (10000100) the parity flag will be set to 1.
 
-- Auxiliarly flag - this flag is set to 1 when the result has a carry from 3rd bit to 4th bit. This flag is used as
-<b>CF</b> when working with BCD (Binary-Coded Decimal).
-- Interrupt flag - this flag is always set to 1, so the inputs from keyboard are not ignored by processor.
-- Direction flag -
+- Auxiliarly flag (<b>AF</b>) - this flag is set to 1 when the result has a carry from 3rd bit to 4th bit. This flag is
+used as <b>CF</b> when working with BCD (Binary-Coded Decimal).
+- Interrupt flag (<b>IF</b>) - this flag is set to 1 to enable interrupts and set to 0 to disable interrupts.
+- Direction flag (<b>DF</b>) - this flag is used in string operations to specify whether strings begin at a low address and proceed to high addresses or vice versa. CX is used as the number of iterations, DS:SI is used as the source address and DS:DI is used as the destination. After each iteration, CX is decremented by one, SI and DI are either incremented or decremented by the element size according to DF flag. If DF = 0, SI and DI are incremented, otherwise they are decremented.
 
 ##### Memory Segmentation and Addressing
 The size of address bus of Intel 8086 is 20 bits which is able to address 2<sup>20</sup>=1,048,576 bytes (1 MB) memory locations.

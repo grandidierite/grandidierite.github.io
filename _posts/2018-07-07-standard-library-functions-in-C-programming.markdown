@@ -6,6 +6,17 @@ description: Standard Library Functions in C Programming
 img: library.jpg
 tags: [C]
 ---
+A function is a block of code that performs particular task.
+
+Functions are used for to prevent writing the same line of code for more than once in a program.
+
+C functions can be classified into two categories
+1. library functions
+2. user-defined functions
+
+Library functions are functions which are already defined in C library. You just need to include appropriate header
+files to use these functions. They are a;ready declared and defined in C libraries.
+
 Below is the list Standard Library Functions in the C Language
 
 <div style="overflow:scroll;">

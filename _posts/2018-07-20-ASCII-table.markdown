@@ -6,15 +6,11 @@ description: ASCII Table
 img: ascii.jpg
 tags: [C]
 ---
-ASCII is an acronym for American Standard Code for information interchange developed by the American National Standards
-Institute (ANSI). ASCII is the most common format to represent the text files.
+ASCII is an acronym for American Standard Code for information interchange developed by the American National Standards Institute (ANSI). ASCII is the most common format to represent the text files.
 
-In an ASCII file alphabetic, numeric or special characters is represent with 7-bit binary numbers. Since ASCII uses
-7-bit, it only supports 2^7 = 128 character codes (0 to 127). Therefore, the standard ASCII character code set is
-limited to 128 characters.
+In an ASCII file alphabetic, numeric or special characters is represent with 7-bit binary numbers. Since ASCII uses 7-bit, it only supports 2^7 = 128 character codes (0 to 127). Therefore, the standard ASCII character code set is limited to 128 characters.
 
-There is an Extended ASCII set that supports 8-bit binary representation to hold some of the special characters and this
- extended set will represent character codes form 128 - 255.
+There is an Extended ASCII set that supports 8-bit binary representation to hold some of the special characters and this extended set will represent character codes form 128 - 255.
 
 
 <h4>ASCII Control Characters</h4>
@@ -25,7 +21,7 @@ There is an Extended ASCII set that supports 8-bit binary representation to hold
         <th>Dec</th>
         <th>Hex</th>
         <th>Binary</th>
-        <th>Char-<p>acter</p></th>
+        <th>Character</th>
         <th>Description</th>
     </tr>
 </thead>
